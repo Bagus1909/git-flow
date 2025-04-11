@@ -1,2 +1,4 @@
 Hello This is a main filegit 
 i edited this file from branch feature/new
+
+hi im from new2, nice to meet you :3
